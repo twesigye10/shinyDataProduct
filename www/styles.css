@@ -1,0 +1,26 @@
+p {
+    font-size: 12px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    /* font-weight: lighter; */
+}
+
+h6 {
+    font-size: 12px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    /* font-weight: lighter; */
+}
+
+/* readme */
+
+div.read-me-div {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+div.page-text {
+    color: #333;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: justify;
+}

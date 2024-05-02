@@ -1,0 +1,12 @@
+name: shinyDataProduct
+title: shinyDataProduct
+username: twes
+account: twes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11917636
+bundleId: 8567342
+url: https://twes.shinyapps.io/shinyDataProduct/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
